@@ -4,6 +4,7 @@
         <header>
             <h1>My first Page!!!</h1>
         </header>
+        <p>Github is used to control version of project.</p>
         <footer></footer>
     </body>
 </html>
